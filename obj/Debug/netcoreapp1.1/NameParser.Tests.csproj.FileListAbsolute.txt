@@ -1,0 +1,13 @@
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.Tests.deps.json
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.Tests.runtimeconfig.json
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.Tests.runtimeconfig.dev.json
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.Tests.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.Tests.pdb
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.App.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/bin/Debug/netcoreapp1.1/NameParser.App.pdb
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/obj/Debug/netcoreapp1.1/NameParser.Tests.AssemblyInfo.cs
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/obj/Debug/netcoreapp1.1/NameParser.Tests.dll
+/Users/geoffwebb/workspace/C#/classwork/Testing/NameParser/NameParser.Tests/obj/Debug/netcoreapp1.1/NameParser.Tests.pdb
